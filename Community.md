@@ -908,4 +908,22 @@
       <td>College</td>
       <td>SRCC</td>
   </tr>
+  <tr>
+      <td>Name</td>
+      <td>Komal Mishra</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/komalmishraa</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/komalmishra/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Deshbandhu college, Delhi university</td>
+  </tr>
+
+
 </table>
